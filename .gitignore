@@ -32,7 +32,7 @@ yarn-error.*
 .env*.local
 
 # Ignore Firebase config file
-config.js
+config.js/
 
 
 # typescript
